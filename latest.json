@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "zipName": "SING_SHOW_0.1.0_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.0_update.zip",
-  "notes": "Pierwsza wersja: playlista odblokowywana tapami, biblioteka podkładów, panel Tipped z lektorem, ranking-hybryda, armata giftów, profile twórców, widgety do TikTok Studio.",
-  "publishedAt": "2026-08-19T10:30:28Z"
+  "version": "0.1.1",
+  "zipName": "SING_SHOW_0.1.1_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.1_update.zip",
+  "notes": "Klucz Euler Stream wyjęty z kodu do osobnego pliku (nie trafia już do publicznych paczek). Rzadsze ponawianie połączenia, gdy streamerka nie jest jeszcze na żywo — nie przepala limitu klucza. W ustawieniach widać, skąd brany jest klucz.",
+  "publishedAt": "2026-08-19T10:34:47Z"
 }
