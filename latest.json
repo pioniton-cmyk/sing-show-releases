@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "zipName": "SING_SHOW_0.1.2_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.2_update.zip",
-  "notes": "Miejsce na klucz Euler Stream w USTAWIENIACH: wklejasz, program sprawdza czy działa i pokazuje limity, zapisuje do pliku obok programu (przetrwa aktualizacje).",
-  "publishedAt": "2026-08-19T10:42:10Z"
+  "version": "0.1.3",
+  "zipName": "SING_SHOW_0.1.3_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.3_update.zip",
+  "notes": "Poprawka: dało się nie wpisać progu tapów przy piosence — pole znikało w trakcie pisania, bo lista odświeżała się przy każdym tapie. Teraz klikasz w tytuł piosenki, wpisujesz próg, Enter zapisuje. To samo zabezpieczenie w panelach Tipped i Dźwięk.",
+  "publishedAt": "2026-08-19T11:09:59Z"
 }
