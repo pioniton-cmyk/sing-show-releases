@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "zipName": "SING_SHOW_0.1.4_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.4_update.zip",
-  "notes": "Nowy widget playlisty: poziomy pasek — u góry przewija się kolejka z progami tapów, pod nią miejsce na aktualną piosenkę. Przy zmianie miejsce ładnie się chowa, kolejna piosenka wylatuje z playlisty na jego miejsce, a kolejka się skraca. Gdy nikt nie śpiewa — animacja muzyki. Pilot w OBS działa teraz tak samo jak DALEJ w czytniku.",
-  "publishedAt": "2026-08-19T11:23:19Z"
+  "version": "0.1.5",
+  "zipName": "SING_SHOW_0.1.5_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.5_update.zip",
+  "notes": "Pasek tapów to teraz pionowy słupek po lewej — lustrzane odbicie armaty. Ładuje się od dołu, a po zebraniu wymaganych tapów wybucha fioletowymi serduszkami. Armata giftów bez ramki i bez opisów: wpadają do niej prawdziwe gifty z TikToka, widać jak fizycznie się zapełnia, a po przepełnieniu wylatują na wszystkie strony, spadają i znikają po 10 sekundach.",
+  "publishedAt": "2026-08-19T11:42:18Z"
 }
