@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "zipName": "SING_SHOW_0.1.1_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.1_update.zip",
-  "notes": "Klucz Euler Stream wyjęty z kodu do osobnego pliku (nie trafia już do publicznych paczek). Rzadsze ponawianie połączenia, gdy streamerka nie jest jeszcze na żywo — nie przepala limitu klucza. W ustawieniach widać, skąd brany jest klucz.",
-  "publishedAt": "2026-08-19T10:34:47Z"
+  "version": "0.1.2",
+  "zipName": "SING_SHOW_0.1.2_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.2_update.zip",
+  "notes": "Miejsce na klucz Euler Stream w USTAWIENIACH: wklejasz, program sprawdza czy działa i pokazuje limity, zapisuje do pliku obok programu (przetrwa aktualizacje).",
+  "publishedAt": "2026-08-19T10:42:10Z"
 }
