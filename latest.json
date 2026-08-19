@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "zipName": "SING_SHOW_0.1.7_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.7_update.zip",
-  "notes": "Rura armaty mieści teraz 100 giftów, a droższe wpadają większe. Gift powyżej ustawionego progu (domyślnie 500 monet) zatyka rurę — korek siada w wylocie, rura pulsuje na czerwono, a licznik sztuk leci dalej. Przy komplecie następuje wystrzał: wylatuje wszystko razem z korkiem, gifty rozlatują się, spadają i znikają po 10 sekundach.",
-  "publishedAt": "2026-08-19T12:04:38Z"
+  "version": "0.1.8",
+  "zipName": "SING_SHOW_0.1.8_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.8_update.zip",
+  "notes": "Gifty w armacie mają teraz prawdziwą fizykę: spadają do rury, odbijają się od ścianek i układają stosem jeden na drugim, każdy pod innym kątem — koniec z równiutkim rządkiem. Setka giftów wypełnia rurę po sam wylot, a gdy stos się ułoży, symulacja zasypia i nie obciąża komputera.",
+  "publishedAt": "2026-08-19T12:45:37Z"
 }
