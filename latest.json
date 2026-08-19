@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "zipName": "SING_SHOW_0.1.5_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.5_update.zip",
-  "notes": "Pasek tapów to teraz pionowy słupek po lewej — lustrzane odbicie armaty. Ładuje się od dołu, a po zebraniu wymaganych tapów wybucha fioletowymi serduszkami. Armata giftów bez ramki i bez opisów: wpadają do niej prawdziwe gifty z TikToka, widać jak fizycznie się zapełnia, a po przepełnieniu wylatują na wszystkie strony, spadają i znikają po 10 sekundach.",
-  "publishedAt": "2026-08-19T11:42:18Z"
+  "version": "0.1.6",
+  "zipName": "SING_SHOW_0.1.6_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/sing-show-releases/main/releases/SING_SHOW_0.1.6_update.zip",
+  "notes": "Armata ma teraz kształt taki jak słupek tapów — pusta rurka, do której wpadają prawdziwe gifty z TikToka i ją zapełniają. Gdy zabraknie miejsca, rurka rozświetla się i wystrzeliwuje gifty na wszystkie strony: rozlatują się, spadają i znikają po 10 sekundach.",
+  "publishedAt": "2026-08-19T11:53:58Z"
 }
